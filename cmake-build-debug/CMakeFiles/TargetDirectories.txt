@@ -1,0 +1,3 @@
+C:/Users/anime/CLionProjects/3650/cmake-build-debug/CMakeFiles/3650.dir
+C:/Users/anime/CLionProjects/3650/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anime/CLionProjects/3650/cmake-build-debug/CMakeFiles/rebuild_cache.dir

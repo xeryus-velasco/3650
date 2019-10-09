@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/anime/CLionProjects/3650/fp.cpp
+fp.h
+C:/Users/anime/CLionProjects/3650/fp.h
+
+C:/Users/anime/CLionProjects/3650/fp.h
+
+C:/Users/anime/CLionProjects/3650/main.cpp
+fp.h
+C:/Users/anime/CLionProjects/3650/fp.h
+iostream
+-
+array
+-
+
